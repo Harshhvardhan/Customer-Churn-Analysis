@@ -1,6 +1,6 @@
-# **Customer Churn Analysis in Power BI**
+# **Customer Churn Analysis**
 
-## This project uses Power BI Desktop and Excel to help businesses prevent customer loss and improve customer service.
+## This project leverages Power BI Desktop and Excel to assist businesses in preventing customer churn and enhancing customer service.
 
 ## **Key Features:**
 📌 Predictive Churn Modeling: Identify at-risk customers before they churn, enabling proactive interventions and retention strategies.
